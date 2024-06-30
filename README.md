@@ -1,16 +1,18 @@
-## Welcome to the AppNetWise 🙌 
+## Welcome to the AppNetWise 🙌
 
-You are viewing the _Public_ welcome page. (https://appnetwise.com).
+_"Your Digital Transformation Team"_
+(https://appnetwise.com).
 
 ### Empowering Organizations with IT Solutions
-Passionate about empowering organizations by addressing their challenges with appropriate IT business solutions.
 
+- Empowering organizations by addressing their challenges with appropriate IT business solutions.
 
-Crafting Future-Ready Solutions
-Engaging in the latest technologies, we adopt a comprehensive approach to create sustainable, competitive and dependable solutions for shaping the future.
+### Crafting Future-Ready Solutions
 
-3
-One-Stop Tech Solutions for a Competitive Edge
-Our wide array of services gives our clients a competitive advantage, serving as a one-stop solution for all their technical requirements.
+- Engaging in the latest technologies, we adopt a comprehensive approach to create sustainable, competitive, and dependable solutions for shaping the future.
 
-![image](https://user-images.githubusercontent.com/8318213/219030886-3148de11-6d39-4e74-b450-5489bde8414b.png)
+### One-Stop Tech Solutions for a Competitive Edge
+
+- Our wide array of services gives our clients a competitive advantage, serving as a one-stop solution for all their technical requirements.
+
+![image](https://appnetwise.com/static/consulting-advisory-6b73fc60b62f7528ac9e7526b9f27aca.jpg)
